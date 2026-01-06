@@ -1,0 +1,7 @@
+{
+  "name": "GlossMobile Detailing",
+  "description": "A premium, responsive mobile car detailing website with AI-powered service recommendations and a seamless booking experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
